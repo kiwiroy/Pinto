@@ -1,3 +1,4 @@
+^contrib
 ^profiles
 ^nytprof
 ^tmp$
@@ -6,5 +7,3 @@
 ^[.].tidyall.d
 ^[.]build
 ^TEST
-
-
